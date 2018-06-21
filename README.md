@@ -1,2 +1,2 @@
-# 2_Prova_Algoritmo
+# Prova Algoritmo
 Resolução da 2ª Prova de Algoritmo
